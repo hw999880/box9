@@ -972,6 +972,12 @@
 			"name": "== 6 =="
 		},
 		{
+			"key": "py_YYMP3",
+			"name": "YYMP3(T3)",
+			"type": 3,
+			"api": "./py/yymp3.py"
+		},
+		{
 			"key": "hipy_js_KTV歌厅[听]1",
 			"name": "KTV歌厅",
 			"type": 3,
@@ -1055,7 +1061,7 @@
 			"url": "./lib/iptv.m3u"
 		},
 		{
-			"name": "cluntop",
+			"name": "cluntop_test",
 			"type": 0,
 			"url": "./lib/iptv_test.m3u"
 		},
