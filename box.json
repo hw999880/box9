@@ -1071,7 +1071,7 @@
 			"url": "https://gh.clun.top/raw.githubusercontent.com/Mursor/LIVE/main/iptv.m3u",
 			"playerType": 2,
 			"timeout": 10,
-			"ua": "okHttp/Mod-1.4.0.0"
+			"ua": "okHttp/Mod-1.5.0.0"
 		},
 		{
 			"name": "tv_jp",
@@ -1102,7 +1102,7 @@
 			"url": "https://gh.clun.top/raw.githubusercontent.com/mursor1985/LIVE/main/huyayqk.m3u",
 			"playerType": 2,
 			"timeout": 10,
-			"ua": "okHttp/Mod-1.4.0.0"
+			"ua": "okHttp/Mod-1.5.0.0"
 		},
 		{
 			"name": "肥羊B站直播",
@@ -1110,7 +1110,7 @@
 			"url": "https://gh.clun.top/raw.githubusercontent.com/mursor1985/LIVE/main/bililive.m3u",
 			"playerType": 2,
 			"timeout": 10,
-			"ua": "okHttp/Mod-1.4.0.0"
+			"ua": "okHttp/Mod-1.5.0.0"
 		},
 		{
 			"name": "肥羊斗鱼一起看",
@@ -1118,7 +1118,7 @@
 			"url": "https://gh.clun.top/raw.githubusercontent.com/mursor1985/LIVE/main/douyuyqk.m3u",
 			"playerType": 2,
 			"timeout": 10,
-			"ua": "okHttp/Mod-1.4.0.0"
+			"ua": "okHttp/Mod-1.5.0.0"
 		},
 		{
 			"name": "肥羊YY轮播",
@@ -1126,7 +1126,7 @@
 			"url": "https://gh.clun.top/raw.githubusercontent.com/mursor1985/LIVE/main/yylunbo.m3u",
 			"playerType": 2,
 			"timeout": 10,
-			"ua": "okHttp/Mod-1.4.0.0"
+			"ua": "okHttp/Mod-1.5.0.0"
 		},
 		{
 			"name": "YTLive",
